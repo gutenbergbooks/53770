@@ -1,4 +1,37 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 53770 ***
+The Project Gutenberg EBook of Hymnological Studies, by Matthew N. Lundquist
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Hymnological Studies
+
+Author: Matthew N. Lundquist
+
+Release Date: December 20, 2016 [EBook #53770]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HYMNOLOGICAL STUDIES ***
+
+
+
+
+Produced by Stephen Hutcheson, MFR and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
 
                           Hymnological Studies
 
@@ -20,10 +53,10 @@
 This humble little work is the outcome of personal interest and some
 lecture work in the field of Hymnology. I trust that this little volume
 will be of some value, especially to fellow Lutheran organists and choir
-directors. For further study the student is referred to John Julian’s
-great “Dictionary of Hymnology” and Benson’s “The English Hymn,” as well
+directors. For further study the student is referred to John Julian's
+great "Dictionary of Hymnology" and Benson's "The English Hymn," as well
 as works by Duffield, Breed, Ninde, and others. Every organist and choir
-director ought to read “The Hymn as Literature” by Jeremiah Bascom
+director ought to read "The Hymn as Literature" by Jeremiah Bascom
 Reeves.
 
                                                     MATTHEW N. LUNDQUIST
@@ -82,7 +115,7 @@ hymns_ and also _sacred poems_.
 linguistic usage, psalm is the same thing as sacred or religious song,
 not song in general. In secular Greek the word psalm does not mean song,
 but it refers more particularly to the ability or technique in playing
-upon stringed instruments—the Greek word “psalmos” means to play a
+upon stringed instruments--the Greek word "psalmos" means to play a
 stringed instrument. By psalm we mean a sacred song or lyric, as of the
 Old Testament Book of Psalms; a hymn.)
 
@@ -115,12 +148,12 @@ must be Biblical and congregational.
 
 First of all, the church hymn must be thoroughly Biblical. It cannot
 move only in the realm of general religious truth, not only sing the
-praise of certain abstract ideas about God’s being, about the
+praise of certain abstract ideas about God's being, about the
 immortality of the soul, about virtue, etc. Not even such subjects as
-God’s attributes, the providence of God, Creation, “man’s physical and
-spiritual attributes, reason, will, conscience, nature and purpose,”
+God's attributes, the providence of God, Creation, "man's physical and
+spiritual attributes, reason, will, conscience, nature and purpose,"
 have any place in the hymns of the Church, when these subjects are
-treated in an abstract way, isolated from God’s revelation through Jesus
+treated in an abstract way, isolated from God's revelation through Jesus
 Christ and detached from human life. The subject of the church hymn,
 provided it possesses sound religious character, is, briefly stated,
 _Christ for us and Christ in us_; on the one hand the objective saving
@@ -128,8 +161,8 @@ grace through Jesus Christ, and on the other hand the subjective
 appropriation of faith, with love and submission and devotion to God.
 The sphere of the church hymn will not thereby be restricted to an
 incessant reiteration of the name of Jesus, his wounds and blood, his
-love, etc. The church hymn sings the praise of God’s entire means of
-salvation: God’s thoughts and works of love through Christ for humanity;
+love, etc. The church hymn sings the praise of God's entire means of
+salvation: God's thoughts and works of love through Christ for humanity;
 His sure and saving institutions of grace upon earth; the work of the
 Holy Spirit in the hearts of men unto repentance, faith and
 sanctification; the benefits, struggles and victories of His kingdom of
@@ -140,7 +173,7 @@ their ardent desire for these things; they meditate upon these things,
 they rejoice in their possession, they describe them and they extol
 them; they adore, thank, and laud their Saviour, and they give
 themselves up to God. Since the content of positive Christian faith, or
-God’s revelation of salvation through Jesus Christ, is the principal
+God's revelation of salvation through Jesus Christ, is the principal
 subject of the church hymn, it is clear that the church hymn must be in
 perfect harmony with the Word of God, the Bible, the very source of the
 revelation of salvation. But this does not mean that the Church should
@@ -171,7 +204,7 @@ books of the Church; Biblical language. This old hymnic language
 possesses very decidedly a character of immortality, depending upon the
 character of the content, whose linguistic garb it is, and with which it
 has become so closely united. As the content is rooted in eternity and
-fundamentally consists of God’s incorruptible thoughts and works, so the
+fundamentally consists of God's incorruptible thoughts and works, so the
 hymnic language, which is the vessel for these realities of the eternal
 world, in a way also attains a character of eternity. The history of the
 church hymns also shows very clearly that whenever this peculiar
@@ -210,15 +243,15 @@ hymns.
 The congregational element in the Lutheran church hymn further means
 that it must be free from all unsound and unjustifiable subjectivity.
 The church hymn is the work of a poet who is vitally united with the
-religious organism—he is a member of the Church—and from this
+religious organism--he is a member of the Church--and from this
 consciousness of perfect communion his hymns emerge. Writes Dr. Martin
-Luther: “Church hymns are so called, because the Church has accepted
+Luther: "Church hymns are so called, because the Church has accepted
 them and uses them as if produced by the Church and as her own hymns. We
 do not say: thus sings Ambrose, Gregory the Great, Prudentius, Sedulius;
 but we say: thus sings the Christian Church. It is the songs of the
 Church that Ambrose, Prudentius and others sing with the Church and the
 Church with them; when they are dead and gone, the Church remains, and
-continues to sing their songs.” Personal poetic gifts and temporal
+continues to sing their songs." Personal poetic gifts and temporal
 conditions and circumstances influence the church hymns. The true church
 hymn does not lack individuality; but it is free from individualism. The
 experiences which the church hymn expresses, the soul states which it
@@ -253,9 +286,9 @@ and circumstances in the life of an individual as are quite exceptional
 and of special interest only to him, not to the congregation as such,
 are unsuitable as subjects for church hymns, since they may quite easily
 form a disturbing digression from that character of community which
-should distinguish the church hymns as such. Hymns “for a father or a
+should distinguish the church hymns as such. Hymns "for a father or a
 mother at New Year, for a poor young man, for a young lady, for a blind
-man,” and the like, really have no place in the hymnal.
+man," and the like, really have no place in the hymnal.
 
 The congregational character of the church hymn also finds expression in
 the language and style of presentation. This must be plain and clear, so
@@ -323,15 +356,15 @@ hymns into the _relatively objective_ hymns and the _relatively
 subjective_ hymns. To the former class belong the hymn proper and the
 didactic or doctrinal hymns; the latter class, the lyrical hymns in a
 narrower sense, consists of what may be called hymns of experience and
-sacrifice. The hymn proper sings the praises of God’s majesty and
-highness, God’s glorious works and attributes, not as something wholly
+sacrifice. The hymn proper sings the praises of God's majesty and
+highness, God's glorious works and attributes, not as something wholly
 outside of the subject, yet something which is looked up to with
-worshipful joy and admiration. “A mighty Fortress is our God” is a good
+worshipful joy and admiration. "A mighty Fortress is our God" is a good
 example of this class of church hymns. The didactic or doctrinal hymn
 presents for quiet and instructive contemplation either certain facts
 from sacred history or certain parts of the Lutheran doctrine. Examples
-of this kind are “Nun freut euch, lieben Christen g’mein” and “Es ist
-das Heil uns kommen her.” In these relatively objective hymns, true
+of this kind are "Nun freut euch, lieben Christen g'mein" and "Es ist
+das Heil uns kommen her." In these relatively objective hymns, true
 church hymns, the objective element is more or less permeated by the
 life, emotion, and sympathy of the subject. In the hymn proper the
 subject sings its own joy and its jubilation in the great God and His
@@ -350,7 +383,7 @@ more directly an expression of individual devotion to Jesus Christ.
 Since the chiefly subjective hymns, because of their nature, are subject
 to the danger of losing themselves in the individual and the incidental,
 it is very important that they be supported and permeated by a sound
-religious philosophy. God’s revelation of salvation, especially Jesus
+religious philosophy. God's revelation of salvation, especially Jesus
 Christ, who in His person and work is at once the vital cause, the life,
 and the living standard of all the various phenomena and forms in the
 world of divine grace and truth, must form the background which
@@ -375,7 +408,7 @@ should reveal itself in the poetical form of presentation as outer
 harmony, as beauty. The entire tone of the church hymn will then become,
 by an inner necessity, graceful, elevated, sublime. It is to be noted
 that this hymnic beauty is modified according to the specific character
-of the hymn. In the church hymn proper, like “Ein’ feste Burg,” this
+of the hymn. In the church hymn proper, like "Ein' feste Burg," this
 hymnic beauty is more elevated, majestic, sublime. In the didactic or
 doctrinal hymn, it is characterized by the purity, positiveness, and
 sonorousness of the faithful testimony of truth. In the lyrical church
@@ -394,14 +427,14 @@ character of concrete and vital reality.
 
 The beauty of the church hymn implies further that its line of thought
 and disposition be clear and well arranged, that each stanza express a
-complete thought, and that there be not too many stanzas—the church hymn
-must not be too long. The phraseology, syntax and metrical form must be
-free from such defects as mar and desecrate the sublime content of the
-hymn or make it offensive, unclear, or even incomprehensible to the
-congregation. This does not mean to commend that vandalism whereby
+complete thought, and that there be not too many stanzas--the church
+hymn must not be too long. The phraseology, syntax and metrical form
+must be free from such defects as mar and desecrate the sublime content
+of the hymn or make it offensive, unclear, or even incomprehensible to
+the congregation. This does not mean to commend that vandalism whereby
 modernists have sought to remove from the old church hymns every
 obsolete word and construction as well as everything which seemed to be
-at variance with the rules of secular poetry—a process whereby many
+at variance with the rules of secular poetry--a process whereby many
 excellent old church hymns have been deprived of their original power
 and simplicity. Most certainly, revision and purification of the outer
 form of the old church hymns is sometimes necessary, in order to make
@@ -438,7 +471,7 @@ this liturgical work of the Church, so as to see more clearly what
 subjects may be considered in the hymn book and in what order the
 various subjects or rubrics may follow each other.
 
-The reason and the vital basis for the existence of the Church is God’s
+The reason and the vital basis for the existence of the Church is God's
 revelation of salvation through Jesus Christ, i. e., the incarnation and
 the work of redemption of the Son of God and the sending of the Holy
 Spirit; and these divine works of salvation are the great objectives of
@@ -465,7 +498,7 @@ times of trouble. The Church is deeply interested in her educational
 institutions, these nurseries of time and eternity; the Christian school
 is not only a creation of the Church, but it needs the whole-hearted
 support of the Church. The Church is also deeply interested in the
-welfare of domestic life—she seeks to make the home a happy Christian
+welfare of domestic life--she seeks to make the home a happy Christian
 home. The Church also desires to support and accompany the individual
 member throughout his course of life, especially in its more difficult
 stages, so that this temporal life may lead to eternal life.
@@ -474,7 +507,7 @@ If these are the most important factors in ecclesiastical-liturgical
 activity, and if the church hymnal is to be in perfect harmony with the
 life of the Church, then the hymns in the hymnal may be arranged as
 follows: 1. _Festival Hymns_, arranged according to the festivals,
-cycles and holy-days of the church year—Advent, Christmas, New Year,
+cycles and holy-days of the church year--Advent, Christmas, New Year,
 Epiphany, etc. 2. _Hymns about the Church and ecclesiastical acts_: the
 Word, the Church, Missions, ecclesiastical acts (worship, Holy Baptism,
 Holy Communion, confirmation, ordination and installation, dedication of
@@ -513,14 +546,14 @@ the Gloria Patri, the Ter Sanctus (Isaiah 6:3), the Hallelujah, the
 Benedicite, the Nunc Dimittis (Luke 2:29), the Magnificat (Luke 1:46),
 the Benedictus (Luke 1:68), and the Te Deum Laudamus.
 
-From Paul’s references to sacred song in his epistles we learn that the
+From Paul's references to sacred song in his epistles we learn that the
 early Christians possessed hymns of their own composition, besides the
 Bible songs. But we know very little about these very early hymns of the
 Apostolic Age; we know of no great hymn writer of that age. One of the
 earliest hymn writers that we know of is Clement of Alexandria, who
-lived about 200 A. D. To him is attributed the Greek hymn, “Shepherd of
-tender youth,” which has been regarded as the first Christian hymn. It
-is found in most of our standard American hymnals—number 282 in Common
+lived about 200 A. D. To him is attributed the Greek hymn, "Shepherd of
+tender youth," which has been regarded as the first Christian hymn. It
+is found in most of our standard American hymnals--number 282 in Common
 Service Book. In 1846 this hymn was freely translated into English by
 Rev. Dr. Henry Martyn Dexter, editor of The Congregationalist, Boston.
 
@@ -529,7 +562,7 @@ Rev. Dr. Henry Martyn Dexter, editor of The Congregationalist, Boston.
 
 Looking at the Christian ancestry of our church hymnody, in a narrower
 way, it may be said that its history goes back to the hymn writing of
-christianized Greece—1500 years back—1500 years of Christian hymn
+christianized Greece--1500 years back--1500 years of Christian hymn
 writing and hymn singing. The church hymnody of the different countries
 varies, of course, in time and duration. A German, for example, finds
 about seven hundred years of German hymn writing in his hymn book. We
@@ -546,37 +579,37 @@ the orthodox hymnody of the old Syriac Church. In order to counteract
 the dangerous influences of Gnosticism, Ephrem Syrus produced a large
 number of fine hymns, which became very popular throughout the Eastern
 Church. Thus a new era in Christian hymnody was introduced. See pages
-63-68 in “The Hymn as Literature,” by J. B. Reeves.
+63-68 in "The Hymn as Literature," by J. B. Reeves.
 
 Like the Gnostics of Syria in the second century, so also the Arians of
 Constantinople in the fourth century sought to propagate their heretical
 doctrines through sacred song. Again great champions of orthodoxy arose,
 men like Ephrem Syrus, who produced fine hymns, mainly in defense of the
-doctrines of the Trinity and Christ’s divine nature. Among early well
+doctrines of the Trinity and Christ's divine nature. Among early well
 known Greek hymn writers we note the following: Gregory of Nazianzus
 (died 389), Anatolius (seventh or eighth century), St. Andrew of
 Jerusalem (660-732), St. Cosmas, the Melodist (died about 760), St. John
 of Damascus (died about 780), St. Stephen of St. Sabas (died 794), and
 St. Joseph the Hymnographer (died about 840). As examples of their hymns
-we have “O Thou the One supreme o’er all” by Gregory, “The day is past
-and over” by Anatolius, “The day of resurrection” by St. John of
-Damascus, and “Art thou weary, art thou languid” by St. Stephen. Rev.
+we have "O Thou the One supreme o'er all" by Gregory, "The day is past
+and over" by Anatolius, "The day of resurrection" by St. John of
+Damascus, and "Art thou weary, art thou languid" by St. Stephen. Rev.
 Dr. John Mason Neale (1818-1866) of East Grimstead, England, has
 produced many excellent translations of the old Greek hymns, which are
 found in nearly all modern hymnals.
 
 In the Eastern Church, as early as the third century, the custom of
-singing had become so general as to be recognized as one of the Church’s
+singing had become so general as to be recognized as one of the Church's
 predominating features. In the Eastern Church, at Antioch, antiphonal
 congregational hymn singing had its origin, and from thence spread in
 all directions in the fourth century. An interesting fact comes to light
 in connection with the use the Eastern Church made of its hymns.
-Theodoret, in his historical writings, tells us that “while Chrysostom
+Theodoret, in his historical writings, tells us that "while Chrysostom
 (347-407) was bishop of Constantinople, at the opening of the fifth
 century, the orthodox Christians were in the habit of assembling
 themselves in the public squares, then marching in midnight processions,
 through the city, singing sacred songs, in order to combat those who
-were enemies of Christ’s divinity.” This is a testimony concerning the
+were enemies of Christ's divinity." This is a testimony concerning the
 anti-Arian hymnody.
 
 The early hymnody of the Eastern Church possesses a great deal of poetic
@@ -620,24 +653,24 @@ Latin church song, because of his great work in hymnody and church
 music. The first stanza of one of his beautiful hymns is here quoted.
 
   O Jesus, Lord of heavenly grace,
-  Thou Brightness of Thy Father’s face,
+  Thou Brightness of Thy Father's face,
   Thou Fountain of eternal light,
   Whose beams disperse the shades of night.
 
 Prudentius (Aurelius Prudentius Clemens) is a prominent Latin hymn
 writer of this period. He was born in Spain, 348 A. D. Prudentius has
-been called “the first great Christian poet.” With him the Latin, the
+been called "the first great Christian poet." With him the Latin, the
 language of a stern and hard people, is, as it were, tempered by faith.
 He, like most of the early Latin hymnists, sings the praises of the
 faith, hope and love of the Christian Church. The subjective, with its
-“I,” “me” and “mine,” so characteristic of modern hymnody, had no place
+"I," "me" and "mine," so characteristic of modern hymnody, had no place
 in the hymns of Prudentius. He received high honors from the Roman
 emperor, but in old age he preferred to devote himself quietly to
 religious literary work. He died about 410 A. D. We quote the first
 stanza of a beautiful Christmas hymn, Corde natus ex Parentis, from
 Prudentius, the translation by Neale.
 
-  Of the Father’s love begotten,
+  Of the Father's love begotten,
   Ere the worlds began to be,
   He is Alpha and Omega,
   He the source, the ending He,
@@ -648,7 +681,7 @@ Prudentius, the translation by Neale.
 St. Patrick (fifth century), called the Apostle of Ireland, wrote
 several hymns for his people. Coelius Sedulius, of the fifth century,
 wrote several great Latin hymns, among which we refer to one that has
-been sung quite extensively, namely, A solis ortus cardine—From lands
+been sung quite extensively, namely, A solis ortus cardine--From lands
 that see the sun arise.
 
 Gregory the Great (545-604) and Venantius Fortunatus (530-609) mark a
@@ -668,7 +701,7 @@ perplexing problems in those days. The Gregorian chants, still in use,
 after a lapse of more than a dozen centuries, show the Gregorian style
 and indicate how Gregory changed the melodious and flowing hymns of St.
 Ambrose into the more severe and solemn style of the new period. But we
-have several hymns from Gregory’s pen which indicate that he was not
+have several hymns from Gregory's pen which indicate that he was not
 without the Ambrosian spirit. Take, for example, his beautiful hymn,
 
   O Christ, our King, Creator, Lord,
@@ -678,7 +711,7 @@ without the Ambrosian spirit. Take, for example, his beautiful hymn,
 
 Venantius Fortunatus, the troubadour, holds a very important place in
 early Latin hymnody. He wrote one of the greatest hymns of the Western
-Church, namely, Vexilla Regis—The royal banners forward go, the Cross
+Church, namely, Vexilla Regis--The royal banners forward go, the Cross
 shines forth in mystic glow. We quote the first stanza of another great
 hymn by Fortunatus, a grand Easter hymn.
 
@@ -694,7 +727,7 @@ They are, on the whole, Scriptural, pure, and devotional. The key-note
 in these venerable old hymns consists of the main points of
 Christianity, the protection and care of the Father, the redemption of
 Christ, the sanctification of the Holy Spirit, strains of thanksgiving
-and praise, invocation of God’s support against the devil, the flesh and
+and praise, invocation of God's support against the devil, the flesh and
 the world.
 
 
@@ -744,8 +777,8 @@ crippled monk of Reichenau, in the eleventh century.
 
 Bernard of Cluny and Bernard of Clairvaux are two Latin hymn writers who
 hold a very important place in Christian hymnody. From Bernard of Cluny
-(twelfth century) comes the well known hymn, “Jerusalem the golden, with
-milk and honey blest.” This hymn comes from his famous and only poem
+(twelfth century) comes the well known hymn, "Jerusalem the golden, with
+milk and honey blest." This hymn comes from his famous and only poem
 Laus Patriae Celestis which consists of some three thousand lines of
 dactylic hexameter. We quote the first stanza of another well known hymn
 that comes from the same poem.
@@ -760,34 +793,34 @@ that comes from the same poem.
   For mortals, and for sinners,
     A mansion with the blest.
 
-From St. Bernard of Clairvaux we have such great hymns as “Light of the
-anxious heart,” “Wide open are Thy hands,” “O Jesus, King most
-wonderful,” “Jesus, the very thought of Thee,” “Jesus, Thou Joy of
-loving hearts,” and “O Sacred Head, now wounded.” St. Bernard was born
+From St. Bernard of Clairvaux we have such great hymns as "Light of the
+anxious heart," "Wide open are Thy hands," "O Jesus, King most
+wonderful," "Jesus, the very thought of Thee," "Jesus, Thou Joy of
+loving hearts," and "O Sacred Head, now wounded." St. Bernard was born
 in Fountaines, Burgundy, 1091. History speaks of him as highly
 imaginative, great champion of the faith, great orator, great teacher,
 founder and abbot of the Cistercian monastery at Clairvaux, and leader
-in mediaeval mysticism. He died in 1153. Luther called him “the best
-monk that ever lived.” Hymns from the two Bernards can be found in any
+in mediaeval mysticism. He died in 1153. Luther called him "the best
+monk that ever lived." Hymns from the two Bernards can be found in any
 standard modern hymn book and they are worth careful study.
 
 Adam of St. Victor (twelfth century) is another important Latin hymnist.
 He was choirmaster at the great St. Victor monastery at Paris. Trench
-speaks of him as “the foremost among the sacred Latin poets of the
-Middle Ages.”
+speaks of him as "the foremost among the sacred Latin poets of the
+Middle Ages."
 
 Thomas of Celano, whose birthplace is unknown, was one of the first
 members of the Franciscan order. In 1221 he went to Germany and remained
 there for nine years; then he returned to Italy, where he died in 1255.
-Thomas of Celano wrote the greatest hymn of the Latin Church—Dies Irae.
+Thomas of Celano wrote the greatest hymn of the Latin Church--Dies Irae.
 There are nineteen verses to this great Sequence, of which we quote the
 first two. The translation is by Wm. J. Irons.
 
   Day of wrath, that Day of mourning,
-  See fulfilled the prophet’s warning,
+  See fulfilled the prophet's warning,
   Heaven and earth in ashes burning.
 
-  O what fear man’s bosom rendeth,
+  O what fear man's bosom rendeth,
   When from heaven the Judge descendeth,
   On whose sentence all dependeth.
 
@@ -796,14 +829,14 @@ was a Dominican and the strongest of the scholastics, theological
 professor at several universities, Doctor of Theology from Paris, also
 called Doctor Angelicus. He was a prolific writer; his Summa Theologiae
 is a great dogmatic work. He died in a prominent monastery at Naples in
-1274. Thomas Aquinas produced a number of excellent hymns. His “Lauda,
-Sion, salvatorem” is generally regarded as one of the greatest hymns of
+1274. Thomas Aquinas produced a number of excellent hymns. His "Lauda,
+Sion, salvatorem" is generally regarded as one of the greatest hymns of
 Latin hymnody. It can be found in almost any standard hymnal, beginning
-“Sion, to thy Saviour singing.”
+"Sion, to thy Saviour singing."
 
 Jacoponus (died 1306) wrote one of the greatest hymns of the Roman
 Church, namely, Stabat Mater Dolorosa. This hymn is found in many
-Protestant hymnals, beginning “At the Cross her station keeping.” Thomas
+Protestant hymnals, beginning "At the Cross her station keeping." Thomas
 a Kempis (1380-1471) of Holland and John Huss (1369-1415) of Bohemia,
 made valuable contributions to mediaeval hymnody.
 
@@ -815,10 +848,10 @@ appropriated a large number of beautiful festival church hymns. Their
 form is very plain. Without any comment the festival subject is
 presented in a very plain and simple statement of the event in question.
 The singer loses himself in his subject; there is nothing here of
-self-assertion. Note such hymns as “A great and mighty wonder,” “All
-praise to Thee, Eternal Lord,” “The strife is o’er, the battle done,”
-“Christ, the Lord, is ris’n today,” “Jesus Christ is risen today,
-Alleluia,” etc.
+self-assertion. Note such hymns as "A great and mighty wonder," "All
+praise to Thee, Eternal Lord," "The strife is o'er, the battle done,"
+"Christ, the Lord, is ris'n today," "Jesus Christ is risen today,
+Alleluia," etc.
 
 Mightily through the ages sound the hymns of penance and judgment;
 perhaps too strong at times. Note that mighty and most powerful hymn,
@@ -829,12 +862,12 @@ in the Holy Communion that the true Christian of the Middle Ages came
 closest to Christ. Note two mediaeval Communion hymns:
 
   Lord Jesus Christ! To Thee we pray,
-  From us God’s wrath Thou turn’st away,
+  From us God's wrath Thou turn'st away,
   Thine agony and bitter death
   Redeem us from eternal wrath.
 
 This hymn comes from John Huss and was translated by Martin Luther. The
-other Communion hymn is “Jesu dulcis memoria,” probably by St. Bernard
+other Communion hymn is "Jesu dulcis memoria," probably by St. Bernard
 of Clairvaux:
 
   Jesus, the very thought of Thee
@@ -844,13 +877,13 @@ of Clairvaux:
 
 It is a very difficult task to translate these old Latin hymns; much is
 lost by the translation. It is not an easy matter to construct a bridge
-between the great glow of St. Bernard’s mysticism and the powerful, yet
-cold faith of the seventeenth century. If “Jesu dulcis memoria” was not
+between the great glow of St. Bernard's mysticism and the powerful, yet
+cold faith of the seventeenth century. If "Jesu dulcis memoria" was not
 written by St. Bernard, it must have been written by one of his devout
 pupils. We are here at the very fountain-head of Christian poetry, so
 closely related to the Song of Solomon, i. e., it presents the relation
-of the faithful to Christ—the love of the bride to the bridegroom. From
-this circle came the great hymn “O Sacred Head, now wounded,” translated
+of the faithful to Christ--the love of the bride to the bridegroom. From
+this circle came the great hymn "O Sacred Head, now wounded," translated
 and perfected by Paul Gerhardt.
 
 No wonder that the schools and cathedrals clung so tenaciously to the
@@ -906,7 +939,7 @@ conditions of the mediaeval Church. The secular Minnesingers (thirteenth
 century) and the Meistersingers (fourteenth century) exerted
 considerable influence upon German hymnody, especially with respect to
 poetic form and music. In the fourteenth and fifteenth centuries the
-“Brethren of the Common Life” (Netherlands) and the significant
+"Brethren of the Common Life" (Netherlands) and the significant
 religious movements associated with John Wycliffe and John Huss gave to
 hymnody in the vernacular a powerful revival and a purer evangelical
 content. Desirable Latin hymns were translated and new hymns in the
@@ -919,8 +952,8 @@ services.
                      MEDIAEVAL SCANDINAVIAN HYMNODY
 
 Because of the close connection which existed in mediaeval times between
-Germanic countries and peoples,—a natural outcome of their racial
-affinity,—it was quite natural that the movements of mediaeval hymnody
+Germanic countries and peoples,--a natural outcome of their racial
+affinity,--it was quite natural that the movements of mediaeval hymnody
 in Germany would become known among the people of the North. The Swedish
 mediaeval Church possessed a hymnody both in Latin and in Swedish. Only
 a very few of the Swedish mediaeval religious songs remain to-day. These
@@ -928,12 +961,12 @@ popular religious songs, like secular folk songs and ballads, were
 transmitted not in writing but as a living tradition on the lips of the
 people from generation to generation. Thus only very few of these old
 Swedish religious songs have survived the century of the Reformation. By
-way of example we may note the old mediaeval song, “The blessed day
-which we behold”—this is found in all Swedish Lutheran hymn books. It
+way of example we may note the old mediaeval song, "The blessed day
+which we behold"--this is found in all Swedish Lutheran hymn books. It
 existed in the fourteenth century. In its present form it has been
 greatly improved by the greatest of Swedish hymnologists, J. O. Wallin.
 Ericus Olai is the only known Swedish hymn writer of mediaeval times.
-One of his hymns, “The Rich Man,” a metrical paraphrase of the Gospel
+One of his hymns, "The Rich Man," a metrical paraphrase of the Gospel
 lesson which deals with the rich man and Lazarus, Olaus Petri, the great
 Swedish reformer, included in the first Swedish Lutheran hymn book. It
 was also included in the Swedish Lutheran hymn book of 1695. An
@@ -941,10 +974,10 @@ interesting and valuable testimony concerning the fact that also in the
 Swedish mediaeval Church the people were allowed to sing in public
 worship, is found in the answer that King Gustavus I gave to the
 complaint of the Dalecarlians, in 1527. Among other things, the king
-says that “it is an old custom in our country, in our churches, to sing
+says that "it is an old custom in our country, in our churches, to sing
 in Swedish and praise God, and it is well that this is done in our own
 language, which we understand, and not in Latin, which we do not
-understand.”
+understand."
 
 
                              THE SEQUENCES
@@ -977,12 +1010,12 @@ namely, the learned Ratpert, the enthusiastic Notker, the highly gifted
 and greatly admired artist Tutilo, and the unrivalled hand-printer of
 books, Sintram, whose very beautiful handwriting was greatly admired
 throughout Europe. Ratpert, a stern educator, never sparing the rod, and
-not deeply interested in his devotional exercises—a great scholar.
+not deeply interested in his devotional exercises--a great scholar.
 Notker Balbulus (stammerer), the saint-like, ascetic tune-writer and
-plant specialist, who had strange visions and lived in another world—a
+plant specialist, who had strange visions and lived in another world--a
 dreamer. Then there was also the ingenious, humorous Tutilo. These three
 monks were as different as three highly gifted persons could be, and yet
-they were always as one soul. Ratpert respected Tutilo’s fine
+they were always as one soul. Ratpert respected Tutilo's fine
 scholarship; at night they were often found with Notker Balbulus in the
 writing-room, comparing and improving the works that Sintram was about
 to copy. Notker who wrote many fine hymn tunes, wanted them sung by
@@ -991,15 +1024,15 @@ instruments. Tutilo wrote several excellent hymn tunes, and he also
 produced several noble hymns of which the most popular are Hodie
 cantandus, Viri Galilei, and Gaudete et cantate.
 
-Notker’s genuine affection for Tutilo was not disturbed by Tutilo’s
+Notker's genuine affection for Tutilo was not disturbed by Tutilo's
 good-natured submission to unreasonable monastic regulations, which
 Notker regarded as symbolically significant. The Benedictine regulations
 were meant for the monasteries of southern Italy, and did not suit the
 convent of St. Gall very well. A midday nap was one of the Benedictine
 regulations, and so the monks of St. Gall had to retire and sleep two or
 three hours at midday every day. The Benedictine rule prescribed a diet
-of fish, fruit and vegetables—the usual diet of southern Italy. But fish
-and fruit were difficult to secure at St. Gall; meat, which was
+of fish, fruit and vegetables--the usual diet of southern Italy. But
+fish and fruit were difficult to secure at St. Gall; meat, which was
 plentiful, was forbidden. And so the diet of St. Gall consisted mainly
 of pulse and pap. Notker who was the guardian of the discipline of the
 monastery, never had an occasion to bring up any reproach against
@@ -1011,7 +1044,7 @@ monotonous diet which maintained his splendid mortal clay.
 
                                SECTION  V
                            LUTHERAN HYMNOLOGY
-                                 1520—
+                                 1520--
 
 
 The Reformation of the sixteenth century put life into congregational
@@ -1026,7 +1059,7 @@ Christ, the one true mediator; and this not only individually in private
 life but also in public worship. The Reformation brought into play all
 serviceable forces and means to promote and make possible the
 realization of this principle in the cultus. The reformers sought to
-make the liturgy intelligible and accessible to the common people—for
+make the liturgy intelligible and accessible to the common people--for
 the Latin they substituted the language of the people, and the
 congregation was given an opportunity to take an active part in public
 worship. It was perfectly natural that church song could not remain in
@@ -1035,14 +1068,14 @@ transferred to the people. And so popular church hymns were produced.
 Luther became the leader also in this great work. What kind of hymns he
 wanted, is quite clearly seen in one of his letters to the electoral
 court chaplain, Spalatin, whom he called upon to assist in this
-hymnological work: “I am willing to make German psalms for the people,
+hymnological work: "I am willing to make German psalms for the people,
 after the example of the prophets and the ancient fathers; that is,
 spiritual hymns whereby the Word of God, through singing, may conserve
-itself among the people.” Later on in the same letter, he makes the
-following suggestion: “I desire, however, that new-fangled words, and
+itself among the people." Later on in the same letter, he makes the
+following suggestion: "I desire, however, that new-fangled words, and
 courtly expressions, be omitted, in order that the language may be the
 simplest and most familiar to the people, and yet, at the same time,
-pure, and well suited to the clear sense of the psalm.” Such church
+pure, and well suited to the clear sense of the psalm." Such church
 hymns, thoroughly Biblical and at the same time popular, the great
 reformer wanted for the people. And Luther produced several church
 hymns, which have never been surpassed and rarely equaled. He translated
@@ -1052,20 +1085,20 @@ original hymns. He was not alone in this hymnological work; many able
 assistants came forward. Thus the great Lutheran hymnody began.[1]
 
 The outstanding merit of these church hymns is that they proclaim and
-extol God’s great works of love, in words and strains that burst forth
-from the very soul of the people—immediately they became the property of
-the people. As silent and yet as most eloquent witnesses of evangelical
-truth, these hymns made their way even to distant lands and awakened the
-languishing hearts of the people to new life, to joy and praise. The
-annals of the Reformation are rich in the most remarkable testimonies
-concerning these things, how the Lutheran hymns powerfully conquered the
-love of the people and how the people heartily sang them in the churches
-and in the homes, in weal and woe. And this great legacy from the
-Reformation era, the Lutheran Church has preserved, used well, and
-richly increased. The church hymn is the special glory of the Lutheran
-Church. No church communion can be compared to the Lutheran Church in
-this respect. Not without reason has the Lutheran Church been called the
-singing church.
+extol God's great works of love, in words and strains that burst forth
+from the very soul of the people--immediately they became the property
+of the people. As silent and yet as most eloquent witnesses of
+evangelical truth, these hymns made their way even to distant lands and
+awakened the languishing hearts of the people to new life, to joy and
+praise. The annals of the Reformation are rich in the most remarkable
+testimonies concerning these things, how the Lutheran hymns powerfully
+conquered the love of the people and how the people heartily sang them
+in the churches and in the homes, in weal and woe. And this great legacy
+from the Reformation era, the Lutheran Church has preserved, used well,
+and richly increased. The church hymn is the special glory of the
+Lutheran Church. No church communion can be compared to the Lutheran
+Church in this respect. Not without reason has the Lutheran Church been
+called the singing church.
 
 
                              MARTIN LUTHER
@@ -1076,21 +1109,21 @@ motherland of the Lutheran Church, Germany. Something permanent and
 peculiarly typical is present in the hymnody of the Reformation days.
 
 With respect to Luther himself, his best hymns are our most precious
-possession. “Ein’ feste Burg” is known the world over. Christians
+possession. "Ein' feste Burg" is known the world over. Christians
 everywhere are familiar with it.
 
 At first Luther did not seem to be aware of his poetical gifts. It was
 not until in July, 1523, when two Belgian martyrs of the Lutheran Church
-had been burnt at the stake, that Luther’s first poetical product came
-into existence—in the folk song style. This song, “Ein neues Lied wir
-heben an,” spread very rapidly throughout Germany. Soon thereafter came
-two hymns, one about penance, and one about faith: “Out of the depths I
-cry to Thee” and “Dear Christians one and all rejoice.” They were
+had been burnt at the stake, that Luther's first poetical product came
+into existence--in the folk song style. This song, "Ein neues Lied wir
+heben an," spread very rapidly throughout Germany. Soon thereafter came
+two hymns, one about penance, and one about faith: "Out of the depths I
+cry to Thee" and "Dear Christians one and all rejoice." They were
 supplied with tunes and spread very rapidly throughout the land.
 
-1524 was the hymn-year of the Reformation. 24 of Luther’s 37 hymns
-appeared in various publications. “Ein’ feste Burg” seems to belong to
-the year 1527. Luther’s musical assistants were Conrad Rupf and Johann
+1524 was the hymn-year of the Reformation. 24 of Luther's 37 hymns
+appeared in various publications. "Ein' feste Burg" seems to belong to
+the year 1527. Luther's musical assistants were Conrad Rupf and Johann
 Walther. It is said that while these two musicians sat at the table,
 busy with the writing of the music, Luther walked about the large room
 and tried the tunes, singing them, or playing them on his flute. When we
@@ -1098,19 +1131,19 @@ stop to consider what was then formed and created, we see clearly that
 this is a historical situation of epoch-making significance. Luther at
 the church door in Wittenberg, Luther at Worms, at Wartburg, in his
 home; so also Luther with his musical friends, creating or remodelling
-poetry and music for the new Church—a central figure in the history of
+poetry and music for the new Church--a central figure in the history of
 the Church.
 
-To characterize Luther’s hymns is no easy task, because of their
-richness. Luther’s soul possessed an enormous span of faith and
+To characterize Luther's hymns is no easy task, because of their
+richness. Luther's soul possessed an enormous span of faith and
 spiritual life. It experienced the mediaeval thunder-tones of judgment
 as well as the brightness of the Gospel. Compare, for example, the two
-hymns, “Though in midst of life we be” and “Dear Christians one and all
-rejoice.” Compare the following stanza from “Ein feste Burg,”
+hymns, "Though in midst of life we be" and "Dear Christians one and all
+rejoice." Compare the following stanza from "Ein feste Burg,"
 
   The Word they still shall let remain,
     Nor any thanks have for it;
-  He’s by our side upon the plain
+  He's by our side upon the plain
     With His good gifts and Spirit.
       Take they then our life,
       Goods, fame, child, and wife,
@@ -1118,24 +1151,24 @@ rejoice.” Compare the following stanza from “Ein feste Burg,”
       They yet have nothing won:
     The Kingdom ours remaineth.
 
-with one of the stanzas from “Vom Himmel hoch da komm ich her”,
+with one of the stanzas from "Vom Himmel hoch da komm ich her",
 
   Ah, dearest Jesus, Holy Child,
   Make Thee a bed, soft, undefiled,
-  Here in my poor heart’s inmost shrine,
+  Here in my poor heart's inmost shrine,
   That I may evermore be Thine.
 
-It is obvious that in “Dear Christians one and all rejoice”—Nun freut
-euch, lieben Christen g’mein—we have the outline of Luther’s entire
+It is obvious that in "Dear Christians one and all rejoice"--Nun freut
+euch, lieben Christen g'mein--we have the outline of Luther's entire
 experience of faith, from the moment he felt himself condemned by God
 till he could triumph in songs of praise. This hymn forms a very clear
 parallel to his exposition of the Second Article.
 
 
-Most of Luther’s hymns ought to be found in our English Lutheran hymn
-books. They are noble church hymns—all Lutherans should know them. The
-Church Militant is one of Luther’s chief subjects. Note his great heroic
-hymn “Ein feste Burg.” Note also one of his last hymns:
+Most of Luther's hymns ought to be found in our English Lutheran hymn
+books. They are noble church hymns--all Lutherans should know them. The
+Church Militant is one of Luther's chief subjects. Note his great heroic
+hymn "Ein feste Burg." Note also one of his last hymns:
 
   Erhalt uns, Herr, bei deinem Wort
   Und steure deiner Feinde Mord,
@@ -1149,17 +1182,17 @@ hymn “Ein feste Burg.” Note also one of his last hymns:
   And set at naught all He hath done.
 
 Powerful and courageous Lutheran hymns! Ach Gott, vom Himmel sieh
-darein—Look down, O Lord, from heaven behold—seems to be as valid
+darein--Look down, O Lord, from heaven behold--seems to be as valid
 against the disintegrating subjectivism and super-culture of our time as
-against the age in which it was born, which dissolved God’s kingdom and
+against the age in which it was born, which dissolved God's kingdom and
 divine will at pleasure and put uncontrolled human will in their place.
 Whether this refers to clericalism and papism or modern culture and mass
 dominion, makes little or no difference; the result in both cases is
 destruction.
 
-Nearly all of Luther’s hymns close with words of praise—note this
+Nearly all of Luther's hymns close with words of praise--note this
 consciousness of communion with Christ. Take for example the last stanza
-of “Christ lag in Todesbanden”:
+of "Christ lag in Todesbanden":
 
   Then let us feast this Easter day
   On the true Bread of heaven;
@@ -1170,7 +1203,7 @@ of “Christ lag in Todesbanden”:
   Faith lives upon no other!
         Alleluia!
 
-We recommend a careful study of “Luther’s Hymns” by James F. Lambert.
+We recommend a careful study of "Luther's Hymns" by James F. Lambert.
 
 
                              GERMAN HYMNODY
@@ -1191,15 +1224,15 @@ Counter-Reformation with its regaining of lost ground. It includes the
 sad story of the internal struggles of the early Lutheran Church, which
 resulted in dissension and weakness, bitterness and discouragement. All
 this is reflected in the hymnody of the Church. The sixteenth century
-produced many great hymnists, to whom we are greatly indebted. Luther’s
+produced many great hymnists, to whom we are greatly indebted. Luther's
 hymns alone would form a valuable little hymn book. But it would be
 still more valuable, if we included in it the best Lutheran church hymns
 of the entire century. A hymn book containing all the great Lutheran
-church hymns of the sixteenth century—a remarkable Lutheran hymn book.
+church hymns of the sixteenth century--a remarkable Lutheran hymn book.
 
 The Reformation hymnody possesses a preponderatingly objective
-character. Definite and true evangelical faith is its keynote. Christ’s
-redemption and the sinner’s justification by faith are the outstanding
+character. Definite and true evangelical faith is its keynote. Christ's
+redemption and the sinner's justification by faith are the outstanding
 expressions in this hymnody. The human and the individual, the
 subjective, receives a secondary place. In fact there is hardly any
 indication in this hymnody of a proper coalescence of the subjective and
@@ -1248,7 +1281,7 @@ writers belong Samuel Rodigast, Gottfried Arnold, Johann Freylinghausen,
 Herrnschmidt, Richter, Countess Emilie Juliane of Schwartzburg, J. J.
 Rambach, and Woltersdorf. In this connection we must also mention
 Gerhard Tersteegen, a preacher without a church, and a leader among
-“awakened souls.” The followers of J. A. Bengel, or the so-called Bible
+"awakened souls." The followers of J. A. Bengel, or the so-called Bible
 Theologians, produced a number of fine devotional hymns. Leading hymn
 writers in this group are Johann Mentzer and Phillip Friedrich Hiller.
 Count Zinzendorf, the great leader among the Herrnhuters, or Moravian
@@ -1287,7 +1320,7 @@ ideas in the hymns had to be removed. The church hymns had to be in
 harmony with the new ethical ideas of the age. A great work in
 hymnological vandalism was in progress. It was not sufficient to merely
 improve the old hymns. Most of the grand old church hymns were dropped
-and new ones produced—new hymns which were in perfect harmony with the
+and new ones produced--new hymns which were in perfect harmony with the
 new ideas of the age. The new hymn book was to be a kind of textbook in
 moral philosophy. The new hymn book should instruct the people in many
 useful things. Hymns were written on such subjects as profitable
@@ -1311,32 +1344,32 @@ times. Outstanding hymnological compilers and editors are Dr. Hermann
 Adalbert Daniel, Dr. Carl Eduard Philipp Wackernagel, and Stip. Albert
 Knapp and Dr. Carl Johann Spitta are important German hymnists of this
 period. Important English translators are Miss Catherine Winkworth, Miss
-Frances Elizabeth Cox, Miss Jane Borthwick and her sister—Mrs.
+Frances Elizabeth Cox, Miss Jane Borthwick and her sister--Mrs.
 Findlater, Rev. Richard Massie, and Rev. A. Tozar Russell.
 
 
                      SCANDINAVIAN LUTHERAN HYMNODY
 
-The Reformation era, the sixteenth century.—The hymnody of the
+The Reformation era, the sixteenth century.--The hymnody of the
 Scandinavian Church during this period was, for the most part, an echo
 of that of the German mother Church. Among important hymnists of this
-period we note Hans Taussen, Hans Tomissön, Cl. Töndebinder and Nils
+period we note Hans Taussen, Hans Tomiss�n, Cl. T�ndebinder and Nils
 Jespersen of the Danish Church. In the Swedish Church we note especially
 the two brothers, Olaus and Laurentius Petri, the two great Swedish
 reformers, students under Dr. Martin Luther at the University of
 Wittenberg. The first Swedish Lutheran hymn book was issued by Olaus
-Petri, 1526, called “Swedish Songs” (about ten hymns). Revised and
+Petri, 1526, called "Swedish Songs" (about ten hymns). Revised and
 enlarged editions of this hymn book appeared in 1530 and 1536. In this
 first Swedish Lutheran hymn book we find hymns by the Swedish poet Olaf
 Swensson, who distinguished himself as a zealous polemic against the
-Roman Catholic Church and “Antichrist” (the pope). In 1567 appeared
+Roman Catholic Church and "Antichrist" (the pope). In 1567 appeared
 another Swedish Lutheran hymn book, containing 99 hymns, which has been
-called “the hymn book of Laurentius Petri,” because it contained many
+called "the hymn book of Laurentius Petri," because it contained many
 translations and several original hymns by him. A revised and enlarged
 edition of this hymn book appeared in 1572. In this hymnal appeared the
-popular and beautiful Swedish Lutheran hymn, “A sinful man, who lay in
+popular and beautiful Swedish Lutheran hymn, "A sinful man, who lay in
 trance of sin, he heard a voice from heaven: Awake, awake, list to the
-Word that comfort gives.” It has been claimed by several authorities
+Word that comfort gives." It has been claimed by several authorities
 that this hymn is the foremost hymn in the Swedish literature of the
 sixteenth century, and also one of the greatest of Swedish Lutheran
 hymns. It is probably the work of Laurentius Petri Gothus.
@@ -1345,9 +1378,9 @@ Scandinavian Lutheran hymnody may be divided into five hymnological
 periods, similar to the five periods of German Lutheran hymnody. The
 hymnological periods of German and Scandinavian hymnody are parallel.
 
-The second period, the seventeenth century.—The seventeenth century is
+The second period, the seventeenth century.--The seventeenth century is
 said to be the days of glory in the history of Scandinavian Lutheran
-hymnody—its foremost period. While the Danish hymnists Hans Sthen, A.
+hymnody--its foremost period. While the Danish hymnists Hans Sthen, A.
 Arreboe, and especially T. Kingo wrote their hymns, the hymnody of the
 Swedish Church developed somewhat independently, with Swedish fervor and
 virility in connection with Biblical and practical simplicity in the
@@ -1356,26 +1389,26 @@ greater in the Swedish Church than in the German Church. It is also to
 be noted that the highest point in Swedish Lutheran hymn writing was
 reached in the later part of the seventeenth century, somewhat later
 than in Germany. Important Swedish hymnists of this period are Samuel
-Columbus, Erik Lindsköld, Petrus Brask, Gustaf Ollon, Israel Kolmodin,
+Columbus, Erik Lindsk�ld, Petrus Brask, Gustaf Ollon, Israel Kolmodin,
 Jacob Boethius, Jakob Arrhenius, and especially the two bishops, Haquin
 Spegel and Jesper Swedberg. The Swedish Lutheran hymnal of 1695 was a
 masterwork.
 
-The third period, from 1700 to 1750.—The Scandinavian Church was not
+The third period, from 1700 to 1750.--The Scandinavian Church was not
 subject to the hymnological fluctuations that the German Church
 experienced in this period, because the excellent Swedish hymnal of 1695
 remained throughout the 18th century as the only official and popular
 hymn book. Efforts were made to produce new hymnals. About 1765 appeared
-an orthodox hymnal, “sound in doctrine and unpoetical”—called the Celsic
-hymnal, because O. Celsius had a great deal to do with its compilation.
-Pietistic and Moravianistic hymnals appeared. As an example of the
-Pietistic hymnals we note “The Songs of Moses and the Lamb,” by
-Lybecker, 1717. “The Songs of Zion” was a Moravianistic product,
+an orthodox hymnal, "sound in doctrine and unpoetical"--called the
+Celsic hymnal, because O. Celsius had a great deal to do with its
+compilation. Pietistic and Moravianistic hymnals appeared. As an example
+of the Pietistic hymnals we note "The Songs of Moses and the Lamb," by
+Lybecker, 1717. "The Songs of Zion" was a Moravianistic product,
 published about 1745. The Danes and the Norwegians were fortunate in
 having as their foremost hymnist the great H. A. Brorson, a most noble
 Pietistic hymn writer.
 
-The fourth period.—This period includes the last half of the eighteenth
+The fourth period.--This period includes the last half of the eighteenth
 century and the first fifteen years of the nineteenth. The neological
 spirit did not get into the church life of Sweden as thoroughly as in
 Germany. This fortunate condition is plainly seen in the hymnody of the
@@ -1387,10 +1420,10 @@ Church. About twenty years later, in 1814, appeared a new project in the
 matter of a revised and improved hymnal, the result of neological
 efforts to produce new church hymns. Many very able hymnists united in
 this great hymnological project, to show what genius and good taste can
-accomplish. It was a great work, but, on the whole, unsuccessful—too
+accomplish. It was a great work, but, on the whole, unsuccessful--too
 fine, perhaps.
 
-The fifth period, the nineteenth century.—The hymnological situation in
+The fifth period, the nineteenth century.--The hymnological situation in
 Sweden in the nineteenth century was somewhat similar to that in
 Germany. But it is hardly a question of returning to the old, because
 neological activities were not able to deprive the Swedish Church of her
@@ -1410,7 +1443,7 @@ Among Swedish hymn writers who contributed to the Hymnal of 1819 we note
 especially Bishop J. O. Wallin (died 1839) and Bishop F. M. Franzen
 (died 1847). Wallin produced 128 original hymns and revised or
 translated very many old and new hymns. The Hymnal of 1819 has often
-been called Wallin’s Hymnal. Most of his hymns are immortal
+been called Wallin's Hymnal. Most of his hymns are immortal
 masterpieces. Franzen produced 22 original hymns. As a hymnist Franzen
 possessed less rhetorical elevation and force than Wallin, but he is
 fully equal to Wallin not only in the Biblical-evangelical quality of
@@ -1432,10 +1465,10 @@ several new hymns by such well known Finnish scholars as Johan Ludvig
 Runeberg (died 1877), Zacharias Topelius (died 1898), and others.
 
 Bishop J. O. Wallin brought about a very high hymnic standard in the
-Swedish Church—perhaps the highest hymnic standard in the entire
+Swedish Church--perhaps the highest hymnic standard in the entire
 Lutheran world. When we examine what Grundtvig and Landstad gave the
 Danish and Norwegian churches, we find a great deal of the folk song
-element in that hymnody—not an unwholesome attribute. Wallin’s work
+element in that hymnody--not an unwholesome attribute. Wallin's work
 belongs rather to the sphere of the solemn and sublime church hymn. The
 hymnody of the Swedish Lutheran Church is among the finest in the whole
 field of Lutheran hymnology, a church hymnody born in the days of the
@@ -1448,12 +1481,12 @@ The early Lutherans in America came from lands where church song had
 attained high position and where a large number of noble church hymns
 had been produced. The early German Lutherans sang from a great variety
 of hymn books which they had brought with them from the homeland. Dr.
-Henry Eyster Jacobs makes the following statement in “A History of the
-Evangelical Lutheran Church in the United States”: “Muhlenberg had
+Henry Eyster Jacobs makes the following statement in "A History of the
+Evangelical Lutheran Church in the United States": "Muhlenberg had
 complained greatly of the variety of hymn books in use in the
 congregations, and generally within the same congregation. Of these, the
 Marburg hymn book gained precedence, and an American edition was
-published by Christopher Saur, Germantown, in 1762.” This hymn book
+published by Christopher Saur, Germantown, in 1762." This hymn book
 contained over six hundred hymns.
 
 About the same thing may be said of the earlier Lutheran immigrants, the
@@ -1469,16 +1502,16 @@ Philadelphia in 1748. This body is known as the Evangelical Lutheran
 Ministerium of Pennsylvania and Adjacent States. In 1782 this synod
 resolved to have a new hymn book printed for the united congregations. A
 hymn book committee was appointed and given the following instructions:
-“As far as possible to follow the arrangement of the Halle hymn book,
+"As far as possible to follow the arrangement of the Halle hymn book,
 and not to omit any of the old standard hymns, especially of Luther and
-Paul Gerhardt.” This German hymn book appeared in 1786, having been
+Paul Gerhardt." This German hymn book appeared in 1786, having been
 prepared by Muhlenberg, Kunze, and Helmuth. Poor health prevented
 Muhlenberg from taking a more active part in the compilation of this
 hymn book. While it was used extensively, it seems that the book did not
 fully meet the wishes of the synod. Apparently the active editors,
 especially Dr. Helmuth, had not been successful in the selection and
 revision of the hymns. The inter-denominational (Lutheran and Reformed)
-hymn book of 1817, the “Gemeinschaftliches Gesangbuch,” was an inferior
+hymn book of 1817, the "Gemeinschaftliches Gesangbuch," was an inferior
 hymnological work. It was meant to take the place of the Pennsylvania
 hymn book of 1786. In 1849 the Ministerium of Pennsylvania published a
 new hymn book, prepared chiefly by Dr. C. R. Demme. The Synods of New
@@ -1488,24 +1521,24 @@ the middle of the nineteenth century, several German Lutheran hymn books
 were published by different synods. The Kirchenbuch of the General
 Council, published in 1877, is a hymnological work of high merit.
 
-The first English Lutheran hymn book used in America was the “Psalmodia
-Germanica” of 1725, 1732, and 1756. It came to America from London,
+The first English Lutheran hymn book used in America was the "Psalmodia
+Germanica" of 1725, 1732, and 1756. It came to America from London,
 England. It contained 122 hymns, several by Luther and Paul Gerhardt. In
-1795 Dr. John C. Kunze of New York published “A Hymn and Prayer Book,
-for the use of such Lutheran Churches as use the English language.” Its
+1795 Dr. John C. Kunze of New York published "A Hymn and Prayer Book,
+for the use of such Lutheran Churches as use the English language." Its
 240 hymns were gathered from German Lutheran, Moravian, English and
-American sources. In 1797 Rev. George Strebeck issued “A Collection of
+American sources. In 1797 Rev. George Strebeck issued "A Collection of
 Evangelical Hymns, made from Different Authors and Collections, for the
-English Lutheran Church in New York.” This was a rather un-Lutheran hymn
+English Lutheran Church in New York." This was a rather un-Lutheran hymn
 book. Rev. Strebeck and his New York congregation went over to the
-Protestant Episcopal Church. In 1806 Rev. Ralph Williston published “A
+Protestant Episcopal Church. In 1806 Rev. Ralph Williston published "A
 Choice Selection of Evangelical Hymns from Various Authors, for the Use
-of the English Lutheran Church in New York.” While this hymn book met
+of the English Lutheran Church in New York." While this hymn book met
 with popularity within the New York Ministerium, it was not a Lutheran
 hymn book. Most of its hymns were taken from Watts and Charles Wesley.
 Rev. Williston and his New York congregation also went over to the
-Protestant Episcopal Church. In 1815 appeared “A Collection of Hymns and
-a Liturgy for the Use of Evangelical Lutheran Churches.” Published by
+Protestant Episcopal Church. In 1815 appeared "A Collection of Hymns and
+a Liturgy for the Use of Evangelical Lutheran Churches." Published by
 order of the Evangelical Lutheran Synod of the State of New York. The
 editors were Drs. Quitman and Wackerhagen. This book contained 520
 carefully selected hymns.
@@ -1526,8 +1559,8 @@ American Lutheran hymn. He is said to be the first German Lutheran
 pastor in America and was ordained by the Swedish Lutheran pastors in
 Gloria Dei Church at Wicaco in 1703. This was the first Lutheran
 ordination in America. We quote here the first two stanzas of Rev.
-Justus Falckner’s beautiful hymn. The hymn was originally written in
-German—“Auf, ihr Christen, Christi Glieder.”
+Justus Falckner's beautiful hymn. The hymn was originally written in
+German--"Auf, ihr Christen, Christi Glieder."
 
   Rise, ye children of salvation,
     All who cleave to Christ the Head!
@@ -1538,8 +1571,8 @@ German—“Auf, ihr Christen, Christi Glieder.”
 
   Saints and heroes, long before us,
     Firmly on this ground have stood;
-  See their banner waving o’er us,
-    Conquerors through the Saviour’s Blood!
+  See their banner waving o'er us,
+    Conquerors through the Saviour's Blood!
   Ground we hold, whereon of old
   Fought the faithful and the bold.
 
@@ -1578,8 +1611,8 @@ the compilation of better and more serviceable English Lutheran hymnals.
 
 The history of hymnody in the American Lutheran Church is in many
 respects discouraging. A prominent American Lutheran theologian recently
-made the following statement: “Few of our ministers have ever had an
-appreciation of the treasures of Lutheran church song” The training of
+made the following statement: "Few of our ministers have ever had an
+appreciation of the treasures of Lutheran church song" The training of
 the clergy in hymnology and church music is not what it ought to be. The
 education of the church organist and choir director is woefully
 deficient. More serious study in liturgics, hymnology and church music
@@ -1588,10 +1621,10 @@ hymnists, hymnologists and church musicians. The Memoirs of the Lutheran
 Liturgical Association contain much valuable information concerning
 American Lutheran church song; so also the Essays on Church Music,
 volumes which contain papers read at Lutheran church music conventions
-held chiefly in Pennsylvania. Other sources of information are: “The
-English Hymn” by Dr. Louis F. Benson, pages 410-420 and 560-563. “The
-Lutheran Cyclopedia” by Jacobs and Haas, pages 235-238 and 96-97. “A
-History of the Evangelical Lutheran Church in the United States” by
+held chiefly in Pennsylvania. Other sources of information are: "The
+English Hymn" by Dr. Louis F. Benson, pages 410-420 and 560-563. "The
+Lutheran Cyclopedia" by Jacobs and Haas, pages 235-238 and 96-97. "A
+History of the Evangelical Lutheran Church in the United States" by
 Henry Eyster Jacobs, the references to hymn books and hymns. History of
 the Liturgical Development of the Ministerium of Pennsylvania, vol.
 XVII, page 93, Lutheran Church Review. The Common Service Book and
@@ -1603,7 +1636,7 @@ Hymnal, vol. XXXVII, page 289, Lutheran Church Review.
                                CONCLUSION
 
 
-How old is Lutheran church song? Four hundred years—the historical age
+How old is Lutheran church song? Four hundred years--the historical age
 of the most vigorous production in the realm of sacred song. We must not
 forget that one thousand popular evangelical Lutheran church hymns are a
 selection from perhaps one hundred thousand church hymns. What a great
@@ -1622,8 +1655,8 @@ literature, while this body of song, which has stood the test of
 centuries, scarcely receives mention? Yet our Lutheran church hymn has
 perhaps very few literary competitors. As a representation of life, does
 it not fitly take its place beside the many legends that have delighted
-the children of old India, or Homer’s Iliad and Odyssey, or the metrical
-romances of the Middle Ages, or Dante’s Divine Comedy, or a great
+the children of old India, or Homer's Iliad and Odyssey, or the metrical
+romances of the Middle Ages, or Dante's Divine Comedy, or a great
 Shakespearean drama, or the songs of the Israelites?
 
 But it is not because the Lutheran church hymn is great poetry that it
@@ -1644,7 +1677,7 @@ hymns contain material from all classical ages revealed by history, from
 the first literary days of old Israel down to the present time, and this
 very often in the most intimate fusion.
 
-Take for example one of F. M. Franzen’s greatest hymns, the first stanza
+Take for example one of F. M. Franzen's greatest hymns, the first stanza
 of which follows:
 
   Prepare the way, O Zion!
@@ -1654,13 +1687,13 @@ of which follows:
   The righteous King of glory,
   Foretold in sacred story.
   Oh, blest is He that came
-  In God the Father’s Name!
+  In God the Father's Name!
 
 How much there is in that stanza! And it is only the first stanza of a
 truly great Lutheran church hymn. In all this, which may seem quite
 commonplace, there really is something truly wonderful; an old, old
-story about the life of faith and its expression in song and worship—an
-exceedingly beautiful testimony about the fulness of God’s work in the
+story about the life of faith and its expression in song and worship--an
+exceedingly beautiful testimony about the fulness of God's work in the
 history of spiritual life on earth.
 
 Our hymnological annotations must draw to a close. They may be regarded
@@ -1673,17 +1706,17 @@ inheritance.
 Much must be done before we can really claim that the American Lutheran
 Church has fully taken over this rich legacy.
 
-A church hymn sung by a Lutheran congregation as it should be sung—that
+A church hymn sung by a Lutheran congregation as it should be sung--that
 may at first thought seem to be a very simple and insignificant matter.
 But taken in its historical and religious connections, the matter is far
-from simple or insignificant. And taken as a problem—it is not easily
+from simple or insignificant. And taken as a problem--it is not easily
 solved. Its relations to the facts and conditions of spiritual life
 extend far and wide. Hymnological study gives us an idea of these
-things. Our Lutheran hymnody is four hundred years old—many of our best
-Lutheran hymns are four hundred years old—four hundred years, think of
-it, full of ups and downs, ecclesiastically and politically—four hundred
-years of sacred song through all kinds of significant life experiences.
-Four hundred years—turn to mediaeval and modern history.
+things. Our Lutheran hymnody is four hundred years old--many of our best
+Lutheran hymns are four hundred years old--four hundred years, think of
+it, full of ups and downs, ecclesiastically and politically--four
+hundred years of sacred song through all kinds of significant life
+experiences. Four hundred years--turn to mediaeval and modern history.
 
 Looking at the history of the church hymn, we may lay down as a
 fundamental principle that the church hymn cannot live without
@@ -1694,13 +1727,13 @@ or the significance of a life-promoting factor.
 
 The correctness of this principle may be confirmed from actual
 experience. In the history of languishing and dying church song, we can
-read about languishing and dying Christian nations—nations in deplorable
-condition both ecclesiastically and nationally—nations of emigration,
-non-patriotism, and of little or no sense of duty—nations of imported
-religious thinking and poorly translated songs.
+read about languishing and dying Christian nations--nations in
+deplorable condition both ecclesiastically and nationally--nations of
+emigration, non-patriotism, and of little or no sense of duty--nations
+of imported religious thinking and poorly translated songs.
 
 The question has often been raised: Does the American Lutheran Church
-really sing? Yes and No—for the most part No. Most of our American
+really sing? Yes and No--for the most part No. Most of our American
 Lutheran country congregations do not sing. How about the city churches?
 A sad affair! In most cases the situation is far from ideal. A church
 hymn, _a Lutheran church hymn_, cannot be sung properly by those who
@@ -1711,8 +1744,8 @@ as a concert number, disconnected from its vital connection. And
 detached from its connection, the noble Lutheran church hymn becomes,
 like everything else that has vital significance, nothing. That which
 does not really hang together, becomes patchwork, bandages, finery,
-rags—we may praise it enthusiastically. Very much like American
-culture—sorry to say. Uniting, cementing, productive LIFE is lacking.
+rags--we may praise it enthusiastically. Very much like American
+culture--sorry to say. Uniting, cementing, productive LIFE is lacking.
 
 Many American Lutheran churches do not sing Lutheran church hymns at
 all. How deplorable! We often attend Lutheran church services where not
@@ -1724,14 +1757,14 @@ we permit Lutheran hymnody to die? Is great Lutheran hymnody a thing of
 the past?
 
 But what is the most serious thing that our American Lutheran
-congregational hymn singing lacks? One thing—LIFE. That is our great
-problem—life in our church song—new life—LIFE. With this go all the
+congregational hymn singing lacks? One thing--LIFE. That is our great
+problem--life in our church song--new life--LIFE. With this go all the
 difficulties of the problem of life.
 
 Since it is the business of the Church to sing the church hymn, the
 question becomes very complicated. So many factors must co-operate in
-this matter, if we are to get anywhere—to sing a Lutheran church hymn as
-it should be sung. Our American Lutheran colleges and theological
+this matter, if we are to get anywhere--to sing a Lutheran church hymn
+as it should be sung. Our American Lutheran colleges and theological
 seminaries will have to undertake more serious educational work in the
 important field of hymnology and church music. A strong summer school of
 Lutheran church music, liturgics and hymnology would be very valuable.
@@ -1744,44 +1777,44 @@ and VITAL song.
 
 The good pastor of a large Lutheran church in Connecticut thanked his
 organist and choirmaster in a very hearty way after a fine Sunday
-morning service. The good organist and choirmaster answered: “Well, who
+morning service. The good organist and choirmaster answered: "Well, who
 cannot play and sing when the pastor preaches such soul-stirring sermons
-and conducts the liturgy so beautifully?” And the good pastor replied:
-“Well, who cannot preach and conduct the liturgy when the organist and
-choirmaster does such excellent work?” That is real co-operation—they
+and conducts the liturgy so beautifully?" And the good pastor replied:
+"Well, who cannot preach and conduct the liturgy when the organist and
+choirmaster does such excellent work?" That is real co-operation--they
 helped each other in a beautiful way. They co-operated in the selection
-of hymns and choir music—every Tuesday or Wednesday evening that pastor
+of hymns and choir music--every Tuesday or Wednesday evening that pastor
 and organist were together in conference concerning the song of the
 church. That is work very much worth while for the Church service.
 
 In our thousands of Lutheran churches throughout the United States of
 America, the American Lutheran Church is to be built up and built
-together into ONE great Church, into ONE people that really sings—a
+together into ONE great Church, into ONE people that really sings--a
 people of God.
 
   But when here devoutly soareth
   High the temple-anthem sweet,
-  Grief grows calm, no plaint outpoureth—
+  Grief grows calm, no plaint outpoureth--
   Hearts with holy rapture beat:
   Free from earthly clouds the soul
   Presses toward a higher goal,
   Takes from hope the comfort given,
-  Speaks e’en now the tongue of heaven.
+  Speaks e'en now the tongue of heaven.
 
   O my soul, thy wing ascending,
-  Yet on Salem’s mount shall rest;
+  Yet on Salem's mount shall rest;
   There where cherub-harps are blending
   With the singing of the blest;
   Let thy note of praise and prayer
   To thy God precede thee there,
-  While e’en yet a care-worn mortal,
-  Still without thy Father’s portal.
+  While e'en yet a care-worn mortal,
+  Still without thy Father's portal.
 
   Let us, Christians, here that wander,
   As our fathers in their day,
   Piously together ponder,
   Gladly sing and meekly pray;
-  Be the children’s voices raised
+  Be the children's voices raised
   To the God their fathers praised.
   Let Thy bounty failing never
   Be on us and all forever.
@@ -1817,10 +1850,10 @@ considerable influence. English Psalmody presents such important names
 as Miles Coverdale (1487-1569), George Buchanan (1506-1582), Thomas
 Sternhold (sixteenth century), John Hopkins, Nahum Tate, Nicholas Brady,
 and Isaac Watts. In Scotch Psalmody the Royal Psalter and the celebrated
-Rous’ Version are significant hymnological works. The Bay Psalmist or
-the New England Version was America’s first hymn book. For further study
-of Reformed church song we recommend “The Hymn as Literature,” by J. B.
-Reeves, also Benson’s “The English Hymn.”
+Rous' Version are significant hymnological works. The Bay Psalmist or
+the New England Version was America's first hymn book. For further study
+of Reformed church song we recommend "The Hymn as Literature," by J. B.
+Reeves, also Benson's "The English Hymn."
 
 
 
@@ -2024,10 +2057,10 @@ Gripenhjelm, Edmund, Upsala University professor, senator, etc., b.
 Grundtvig, Rev. N. F. S., b. 1783, d. 1872, great Danish Lutheran
     hymnist.
 
-Günther, Cyriacus, b. 1649, d. 1704, German hymnist.
+G�nther, Cyriacus, b. 1649, d. 1704, German hymnist.
 
-Gustavus Adolphus, one of Sweden’s greatest kings, great conquering hero
-    of oppressed Protestantism, b. 1594, fell in the battle of Lützen,
+Gustavus Adolphus, one of Sweden's greatest kings, great conquering hero
+    of oppressed Protestantism, b. 1594, fell in the battle of L�tzen,
     November 6, 1632.
 
 Gyllenborg, Gustaf Fredrik, count, Secretary of State, great Swedish
@@ -2035,7 +2068,7 @@ Gyllenborg, Gustaf Fredrik, count, Secretary of State, great Swedish
 
 Hardenberg, Freiherr von, b. 1772, d. 1801, German Lutheran hymnist.
 
-Harsdörffer, Georg Philipp, councillor, b. 1607, d. 1658, German
+Harsd�rffer, Georg Philipp, councillor, b. 1607, d. 1658, German
     hymnist.
 
 Hauge, A., dean in Norwegian Church, b. 1815, d. 1892, important
@@ -2062,7 +2095,7 @@ Herzog, Joh. Friedrich, LL.D., Dresden, b. 1647, d. 1699, German
 
 Hey, Rev. Johann Wilhelm, b. 1789, d. 1854, German Lutheran Pietist.
 
-Heyd, Sebaldus, rector at Nürnberg, b. 1498, d. 1561.
+Heyd, Sebaldus, rector at N�rnberg, b. 1498, d. 1561.
 
 Hilarius (Hilary), famous Bishop of Poitiers, d. 368, first Latin
     hymnist.
@@ -2124,7 +2157,7 @@ Kolmodin, Israel, professor of theology, Upsala University, b. 1643, d.
 
 Kolmodin, Rev. Olof, b. 1690, d. 1753, important Swedish hymnist.
 
-Lagerlöf, Peter, Upsala University professor, historian, scientist,
+Lagerl�f, Peter, Upsala University professor, historian, scientist,
     poet, b. 1648, d. 1699, Swedish hymnist.
 
 Landstad, Rev. M. B., b. 1802, d. 1881, great Norwegian hymnist.
@@ -2139,7 +2172,7 @@ Lenngren, Anna Maria, great Swedish poet, b. 1755, d. 1817.
 
 Leopold, Karl Gustaf, state secretary, Swedish poet, b. 1756, d. 1829.
 
-Lindschöld, Erik, government official, b. 1634, d. 1690, important
+Lindsch�ld, Erik, government official, b. 1634, d. 1690, important
     Swedish hymnist.
 
 Lobwasser, Ambrosius, professor of law, b. 1515, d. 1585, German
@@ -2174,7 +2207,7 @@ Massie, Richard, pastor, b. 1800, d. 1887, Anglican, important English
 Mattes, Rev. John Casper, M. A., b. 1876, Pennsylvania, Lutheran.
 
 Melanchthon, Philip, Wittenberg University professor, Praeceptor
-    Germaniae, Luther’s important assistant, b. 1497, d. 1560.
+    Germaniae, Luther's important assistant, b. 1497, d. 1560.
 
 Mentzer, Rev. Johann, b. 1658, d. 1734, German hymnist.
 
@@ -2184,13 +2217,13 @@ Meuslin, Rev. Wolfgang, theological professor, b. 1497, d. 1563, German
 Meyfart, Rev. Johann Matthaeus, Erfurt University professor, b. 1590, d.
     1642, German Lutheran hymnist.
 
-Mortensön Töndebinder, Claus, pastor, b. about 1500, d. about 1577,
+Mortens�n T�ndebinder, Claus, pastor, b. about 1500, d. about 1577,
     important early Danish Lutheran hymnist.
 
 Muraeus, Rev. Stefan Larsson, court chaplain, b. about 1600, d. 1675,
     Swedish hymnist.
 
-Münter, Rev. Balthasar, b. 1735, d. 1793, German Lutheran hymnist.
+M�nter, Rev. Balthasar, b. 1735, d. 1793, German Lutheran hymnist.
 
 Neander, Rev. Christ. Friedrich, b. 1723, d. 1802, German Lutheran.
 
@@ -2222,7 +2255,7 @@ Notker Balbulus, Benedictine monk, warden at St. Gall, d. 912, important
 
 Nygren, Rev. Carl, b. 1726, d. 1789, Swedish Lutheran hymnist.
 
-Nyström, Per Olof, government official, b. 1764, d. 1830, Swedish
+Nystr�m, Per Olof, government official, b. 1764, d. 1830, Swedish
     Lutheran Hymnist.
 
 Nilsson, Rev. Paul, court preacher, b. 1866, important Swedish
@@ -2318,7 +2351,7 @@ Schmedeman, Johan, government official, b. 1653, d. 1713, Swedish
 
 Schmolck, Rev. Benjamin, b. 1672, d. 1737, important German hymnist.
 
-Schütz, Johann Jakob, lawyer, b. 1640, d. 1690, German hymnist.
+Sch�tz, Johann Jakob, lawyer, b. 1640, d. 1690, German hymnist.
 
 Scriver, Christian, court chaplain, b. 1629, d. 1693, German hymnist.
 
@@ -2347,7 +2380,7 @@ Springer, Lars, 17th century, Swedish hymnist.
 
 Stegmann, Rev. Dr. Josua, b. 1588, d. 1632, German Lutheran hymnist.
 
-Stenbäck, Rev. L. J., b. 1811, d. 1870, important Finnish hymnist.
+Stenb�ck, Rev. L. J., b. 1811, d. 1870, important Finnish hymnist.
 
 Stenhammar, Rev. Mathias, b. 1766, d. 1852, Swedish Lutheran hymnist.
 
@@ -2387,12 +2420,12 @@ Vischer (Fischer), Rev. Christoph, d. 1600, German Lutheran.
 Wallin, Rev. Dr. Johan Olof, archbishop, b. 1779, d. 1839, greatest
     Swedish Lutheran hymnist and hymnologist.
 
-Walther, Johann, choirmaster and cantor, Torgau, Luther’s musical
+Walther, Johann, choirmaster and cantor, Torgau, Luther's musical
     assistant, b. 1496, d. 1570, German Lutheran hymnist.
 
 Weigel, Rev. Joh. Adam Valent., b. 1740, d. 1806, German hymnist.
 
-Weisse, Rev. Michael, monk, later Bohemian Brethren’s Unity, b. cir.
+Weisse, Rev. Michael, monk, later Bohemian Brethren's Unity, b. cir.
     1480, d. 1534.
 
 Weissel, Rev. Georg, b. 1590, d. 1635, German Lutheran hymnist.
@@ -2415,10 +2448,10 @@ Wultejus, Rev. Johan, court chaplain, b. 1639, d. 1700, Swedish hymnist.
 
 Zinzendorf, Count, Moravian, b. 1700, d. 1760.
 
-Aström, Rev. Johan, b. 1767, d. 1844, important Swedish Lutheran
+Astr�m, Rev. Johan, b. 1767, d. 1844, important Swedish Lutheran
     hymnist.
 
-Ödmann, Samuel, pastor, professor of theology, author, b. 1750, d. 1829,
+�dmann, Samuel, pastor, professor of theology, author, b. 1750, d. 1829,
     great Swedish Lutheran hymnist.
 
 
@@ -2427,17 +2460,17 @@ Aström, Rev. Johan, b. 1767, d. 1844, important Swedish Lutheran
                                FOOTNOTES
 
 
-[1]The first Lutheran hymn book was “Etlich Christliche Lieder” of 1524.
-    This little hymn book may have been published without Luther’s
+[1]The first Lutheran hymn book was "Etlich Christliche Lieder" of 1524.
+    This little hymn book may have been published without Luther's
     assistance. Perhaps the most important hymn book, containing a
-    number of Luther’s hymns, was “Geistliches Gesangbuechlein” of 1524.
-    “Enchiridion oder ein Handbuechlein” appeared in 1524. Other
+    number of Luther's hymns, was "Geistliches Gesangbuechlein" of 1524.
+    "Enchiridion oder ein Handbuechlein" appeared in 1524. Other
     important hymn books appeared in 1526, 1531, and 1535.
 
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
 --Preserved copyright notice from the printed book, although this eBook
@@ -2456,4 +2489,365 @@ Aström, Rev. Johan, b. 1767, d. 1844, important Swedish Lutheran
 
 End of Project Gutenberg's Hymnological Studies, by Matthew N. Lundquist
 
-*** END OF THE PROJECT GUTENBERG EBOOK 53770 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK HYMNOLOGICAL STUDIES ***
+
+***** This file should be named 53770-8.txt or 53770-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/3/7/7/53770/
+
+Produced by Stephen Hutcheson, MFR and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
